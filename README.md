@@ -1,4 +1,4 @@
-# Find-Palinedrome
+# Find-Palindrome
 ECE 0302 Data Structure and Algorithms with C++ Project 2  
 
 In this project we will be implementing a C++ class called FindPalindrome.  
